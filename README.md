@@ -1,2 +1,2 @@
 # fahmi-resolusi
-Repository untuk menyimpan rencana WPU kedepannya
+Repository untuk menyimpan rencana FAHMI kedepannya
